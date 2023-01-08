@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Franklyne-Kibet
-- 👀 I’m interested in Cloud Computing.
-- 🌱 I’m currently learning GCP by google
+- 👀 I’m a Data Engineer.
+- 🌱 I’m currently working on data engineering projects.
 - 💞️ I’m looking to collaborate on projects and open-source.
 - 📫 How to reach me bettfranklyne@gmail.com
 
