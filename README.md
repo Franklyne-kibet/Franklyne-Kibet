@@ -2,7 +2,7 @@
 - 👀 I’m a Data Engineer.
 - 🌱 I’m currently working on data engineering projects.
 - 💞️ I’m looking to collaborate on projects and open-source.
-- 📫 How to reach me bettfranklyne@gmail.com
+- 📫 How to reach me ckfranklyne@gmail.com
 
 <!---
 Franklyne-Kibet/Franklyne-Kibet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
