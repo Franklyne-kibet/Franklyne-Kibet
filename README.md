@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Franklyne
 - 👀 I’m a Data Engineer.
-- 🌱 I’m currently working on data engineering projects.
-- 💞️ I’m looking to collaborate on projects and open-source.
 - 📫 How to reach me ckfranklyne@gmail.com
 
 <!---
