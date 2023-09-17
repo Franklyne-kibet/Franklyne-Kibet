@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Franklyne
-- 👀 I’m a Data Engineer || Analytics Engineer
+- 👀 I’m a Data Engineer | Analytics Engineer 
 - 📫 How to reach me ckfranklyne@gmail.com
 
 <!---
