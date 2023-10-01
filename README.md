@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Franklyne
 - 👀 DataOps | Data Engineer | Analytics Engineer.
-- 👀 Systems are just throw-away-artifact, and any system is supposed in use for a limited time
+- 👀 Systems are just throw-away-artifact.
 - 📫 How to reach me ckfranklyne@gmail.com
 
 <!---
