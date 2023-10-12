@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Franklyne
-- 👀 DataOps | Data Engineer | Analytics Engineer.
+- 👀 DataOps || Data Engineer || Analytics Engineer.
 - 👀 Systems are just throw-away-artifact.
 - 📫 How to reach me ckfranklyne@gmail.com
 
