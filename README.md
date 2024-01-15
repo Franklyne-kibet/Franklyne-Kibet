@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Franklyne
-- 👀 Data Engineer || Data Platform Engineer.
+- 👀 Data Engineer | Data Platform Engineer.
 - 👀 Systems are just throw-away-artifact.
 - 📫 How to reach me ckfranklyne@gmail.com
 
