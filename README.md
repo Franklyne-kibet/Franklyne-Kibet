@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Franklyne
 - 👀 Data Platform Engineer.
 - 👀 Systems are just throw-away-artifact.
-- 📫 How to reach me ckfranklyne@gmail.com
+- 📫 How to reach me ckfranklyne@gmail.com.
 
 <!---
 Franklyne-Kibet/Franklyne-Kibet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
