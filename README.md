@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Franklyne
-- 👀 Backend Engineer || Data Platform Engineer.
+- 👀 Backend Engineer || Data Infrastructure Engineer.
 - 👀 Systems are just throw-away-artifact.
 - 📫 How to reach me ckfranklyne@gmail.com.
 
