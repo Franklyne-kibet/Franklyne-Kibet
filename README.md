@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Franklyne
-- 👀 Backend Engineer || Data Infrastructure Engineer.
-- 👀 Systems are just throw-away-artifact.
-- 📫 How to reach me ckfranklyne@gmail.com.
+ 👋 Hi, I’m Franklyne! I write performant code
 
 <!---
 Franklyne-Kibet/Franklyne-Kibet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
